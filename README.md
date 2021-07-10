@@ -1,1 +1,1 @@
-# TareaCorta1
+# SOLID RULES
